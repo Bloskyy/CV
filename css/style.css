@@ -1,0 +1,26 @@
+body{
+    background-color: #FAF7F0;
+}
+hr {
+    
+    border-style: none;
+    border-top-style:dotted ;
+    border-color: grey;
+    border-width: 5px;
+    width:5% ; 
+}
+h1{
+    color:#BCCEF8;
+}
+h3{
+    color:#BCCEF8;
+}
+p{
+    background-color: #FFECEF ;
+    color:red;
+    border-style: groove;
+
+}
+#hobbies{
+    color: blue;
+}
